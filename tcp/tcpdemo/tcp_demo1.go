@@ -1,4 +1,4 @@
-package tcpdemo1
+package tcpdemo
 
 import (
 	"bufio"
